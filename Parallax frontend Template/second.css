@@ -1,0 +1,23 @@
+body{
+	background-color: #4b4b4b;
+}
+div{
+    background-color: #A7DCE4;
+    position: relative;
+    left: 50px;
+    top: 50px;    
+    width: 200px;
+    height: 330px;
+
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    border-radius: 27px; 
+
+}
+.checkbox{
+    text-decoration: none;
+    /*visibility: hidden;
+    /*
+    width: 80px;*/
+
+}
